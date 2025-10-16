@@ -1,6 +1,6 @@
 # About
 
-AI-coded scraper to summarize [Earthquake data from PHILVOLCS](https://earthquake.phivolcs.dost.gov.ph/).
+AI ang nag code ani - Scraper to summarize [Earthquake data from PHILVOLCS](https://earthquake.phivolcs.dost.gov.ph/).
 
 # Installation & Usage
 - Clone or download this project
