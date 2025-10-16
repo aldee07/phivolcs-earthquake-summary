@@ -1,0 +1,16 @@
+{
+  "name": "phivolcs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ora": "^5.4.1",
+    "puppeteer": "^24.25.0"
+  }
+}
